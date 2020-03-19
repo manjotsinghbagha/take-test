@@ -1,0 +1,10 @@
+1.The measure of location which is the most likely to be influenced by extreme values in the data set is the 
+a.   range #  b.   median #  c.   mode #  d.   mean   
+2.If two events are independent, then 
+a.   they must be mutually exclusive # b.   the sum of their probabilities must be equal to one # c.   their intersection must be zero # d.   None of these alternatives is correct. 
+3.Two events, A and B, are mutually exclusive and each have a nonzero probability.    If event A is known to occur, the probability of the occurrence of event B is 
+a.   one #  b.   any   positive   value #  c.   zero  # d.   any value between 0 to 1 
+4.A numerical description of the outcome of an experiment is called a 
+a.   descriptive   statistic #  b.   probability   function #  c.   variance  # d.   random   variable 
+5.In the textile industry, a manufacturer is interested in the number of blemishes or flaws occurring in each 100 feet of material.The probability distribution that has the greatest chance of applying to this situation is the 
+a.   normal   distribution  # b.   binomial   distribution #  c.   Poisson   distribution #  d.   uniform   distribution   
